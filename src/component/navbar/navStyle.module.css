@@ -1,21 +1,22 @@
 .container {
+  position: relative;
   display: flex;
-  justify-content: space-between;
-  background-color: brown;
-  max-width: 70%;
-  margin: 20px auto;
+  justify-content: space-around;
+  max-width: 80%;
+  margin: 0px auto;
   font-family: Montserrat;
   font-style: normal;
   font-weight: bold;
-  font-size: 25px;
+  font-size: 20px;
   line-height: 30px;
   color: #ffffff;
+  margin-top: -38%;
 }
 .box1 {
   display: flex;
 }
 .box2 {
   display: flex;
-  width: 40%;
+  width: 30%;
   justify-content: space-between;
 }
