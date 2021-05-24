@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  background-color: brown;
+  max-width: 70%;
+  margin: 20px auto;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 30px;
+  color: #ffffff;
+}
+.box1 {
+  display: flex;
+}
+.box2 {
+  display: flex;
+  width: 40%;
+  justify-content: space-between;
+}
