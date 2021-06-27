@@ -5,6 +5,7 @@ function home() {
   return (
     <div className={homeStyle.container}>
       <img src={Gapriel} alt="gapriel" />
+      <p>Welcome</p>
     </div>
   );
 }
