@@ -5,7 +5,24 @@
 }
 .text {
   position: absolute;
-  background-color: bisque;
-  margin-left: 20vw;
-  margin-top: 20vw;
+}
+.first {
+  color: white;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 61px;
+  margin-left: 14vw;
+  margin-top: 11vw;
+}
+.second {
+  color: white;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 42px;
+  line-height: 61px;
+  margin-left: 14vw;
+  margin-top: -2vw;
 }
