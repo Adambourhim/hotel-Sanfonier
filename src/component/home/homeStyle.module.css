@@ -3,3 +3,9 @@
   max-width: 100%;
   margin: 0 auto;
 }
+.text {
+  position: absolute;
+  background-color: bisque;
+  margin-left: 20vw;
+  margin-top: 20vw;
+}
